@@ -10,7 +10,7 @@ WHAT DOES IT DO
 
  * How to use?
 
-   - Download Clipboard+Installer.exe & Place it where you want to Download the Software.
+   - Download Clipboard+Installer.exe & Place it where you want to Download the Software. [It will create a Clipboard+ Folder]
       After running the Installer & Downloading the software, start Clipboard+.exe for the Hotkey Setup.
       
       NOTE: Why did i create a Downloader?: i cant upload files bigger than 25MB to GitHub.

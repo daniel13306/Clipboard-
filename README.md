@@ -10,7 +10,10 @@ WHAT DOES IT DO
 
  * How to use?
 
-   - Download Clipboard+.rar & Unpack wherever you want, start Clipboard+.exe to get the Hotkey Setup.
+   - Download Clipboard+Installer.exe & Place it where you want to Download the Software.
+      After running the Installer & Downloading the software, start Clipboard+.exe for the Hotkey Setup.
+      
+      NOTE: Why did i create a Downloader?: i cant upload files bigger than 25MB to GitHub.
 
  
  * Extend your Clipboard, Add 2 new Copy/Paste slots!
@@ -26,7 +29,7 @@ WHAT DOES IT DO
       Note that Copying PICTURES is not possible (Yet) Maybe later on.
       For now, its only able to copy UTF-8 (Text) Like this <---
       
-   - More info in the Readme.htm (In the .rar)
+   - More info in the Readme.htm (After install)
       
    - Made for Windows
     

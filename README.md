@@ -2,7 +2,7 @@
 # ClipboardPlus 
 Clipboard+, Extend your Clipboard now!
 
-
+CLIPBOARD PLUS IS NOT AVAILABLE ANYMORE.
 
 WHAT DOES IT DO
 -------------
